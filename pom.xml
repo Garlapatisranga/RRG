@@ -89,7 +89,7 @@
     </dependencies>
 
     <build>
-        <finalName>${project.artifactId}</finalName>
+        <finalName>ranga</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
